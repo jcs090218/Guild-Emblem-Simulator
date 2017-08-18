@@ -1,4 +1,4 @@
-* Guild Emblem Simulator *
+# Guild Emblem Simulator #
 <br/>
 
 This is a tiny program for you to customize your own guild
