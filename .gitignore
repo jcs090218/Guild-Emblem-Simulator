@@ -1,0 +1,17 @@
+##############################
+# ignore following path
+##############################
+/.git
+/.settings
+/bin
+/build
+
+##############################
+# ignore folloing extension
+##############################
+*.exe
+*.jar
+*.class
+*.project
+*.classpath
+*.prefs
