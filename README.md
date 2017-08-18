@@ -12,12 +12,4 @@ into a PNG file.<br/><br/>
 <img src="./res/bg.png"/>
 
 ### Samples ###
-<img src="./samples/guild_image_01.png"/>
-<img src="./samples/guild_image_02.png"/>
-<img src="./samples/guild_image_03.png"/>
-<img src="./samples/guild_image_04.png"/>
-<img src="./samples/guild_image_05.png"/>
-<img src="./samples/guild_image_06.png"/>
-<img src="./samples/guild_image_07.png"/>
-<img src="./samples/guild_image_08.png"/>
-
+<img src="./samples/guild_image_01.png"/> <img src="./samples/guild_image_02.png"/> <img src="./samples/guild_image_03.png"/> <img src="./samples/guild_image_04.png"/> <img src="./samples/guild_image_05.png"/> <img src="./samples/guild_image_06.png"/> <img src="./samples/guild_image_07.png"/> <img src="./samples/guild_image_08.png"/>
